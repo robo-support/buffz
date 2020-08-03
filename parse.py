@@ -97,18 +97,11 @@ for index, row in df.iterrows():
             hero_world_buffs[row[0]][row[1]] = True
 
     
-#for name, buffs in hero_world_buffs.items():
-#    if (len(buffs) >= 1):
-#        print (name + " gets bonus ep for world buffs!")
-
 world_buffs_out = pd.DataFrame(hero_world_buffs)
-world_buffs_out.to_csv('wbuffs.csv')
+world_buffs_t = world_buffs_out.T
+world_buffs_t.to_csv('wbuffs.csv')
 
 consumes_out = pd.DataFrame(hero_consumables)
-consumes_out.to_csv('consumes.csv')
-
-#with open('world_buffs.csv', 'w') as csvfile:
-#    writer = csv.DictWriter(csvfile, fieldnames = world_buffs)
-#    writer.writeheader()
-#    writer.writerows(hero_world_buffs.values())
+consumes_t = consumes_out.T
+consumes_t.to_csv('consumes.csv')
 
