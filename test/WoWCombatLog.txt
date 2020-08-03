@@ -1,0 +1,190 @@
+8/2 21:55:52.353  COMBAT_LOG_VERSION,9,ADVANCED_LOG_ENABLED,1,BUILD_VERSION,1.13.5,PROJECT_ID,2
+8/2 21:55:52.505  SPELL_AURA_APPLIED,Player-4647-0042E8D4,"Ethlumi-Grobbulus",0x514,0x0,Player-4647-0068D9A5,"Falrune-Grobbulus",0x514,0x0,10157,"Arcane Intellect",0x40,BUFF
+8/2 21:55:52.587  SPELL_CAST_SUCCESS,Player-4647-00C33D36,"Evielynn-Grobbulus",0x514,0x0,Player-4647-0068D9A5,"Falrune-Grobbulus",0x514,0x0,9474,"Flash Heal",0x2,Player-4647-00C33D36,0000000000000000,100,100,0,0,0,-1,0,0,0,-93.71,-106.61,0,3.8940,74
+/2 22:05:16.630  SPELL_CAST_SUCCESS,Player-4647-016595AB,"Trystanya-Grobbulus",0x518,0x0,Creature-0-4378-0-92-604-0000277075,"Plague Spreader",0xa48,0x0,5019,"Shoot",0x1,Player-4647-016595AB,0000000000000000,88,100,0,0,0,-1,0,0,0,-10360.61,182.23,1431,0.1048,20
+8/2 22:05:16.831  RANGE_DAMAGE,Player-4647-016595AB,"Trystanya-Grobbulus",0x518,0x0,Creature-0-4378-0-92-604-0000277075,"Plague Spreader",0xa48,0x0,5019,"Shoot",0x1,Creature-0-4378-0-92-604-0000277075,0000000000000000,10,100,0,0,0,-1,0,0,0,-10356.84,182.27,1431,3.1523,27,26,26,-1,64,0,0,0,nil,nil,nil
+8/2 22:05:16.831  SPELL_PERIODIC_HEAL,Player-4647-0111E3A2,"Zoomhur-Grobbulus",0x518,0x0,Player-4647-0111E3A2,"Zoomhur-Grobbulus",0x518,0x0,16491,"Blood Craze",0x1,Player-4647-0111E3A2,0000000000000000,97,100,0,0,0,-1,0,0,0,-10384.81,306.40,1431,4.9027,69,52,52,0,0,nil
+8/2 22:05:17.464  SPELL_AURA_APPLIED,Player-4647-01322A36,"Heatt-Grobbulus",0x518,0x0,Player-4647-01322A36,"Heatt-Grobbulus",0x518,0x0,7301,"Frost Armor",0x10,BUFF
+8/2 22:05:17.464  SPELL_AURA_APPLIED,Player-4647-01322A36,"Heatt-Grobbulus",0x518,0x0,Player-4647-01322A36,"Heatt-Grobbulus",0x518,0x0,1460,"Arcane Intellect",0x40,BUFF
+8/2 22:05:17.464  SPELL_CAST_START,Player-4647-016595AB,"Trystanya-Grobbulus",0x518,0x0,0000000000000000,nil,0x80000000,0x80000000,5019,"Shoot",0x1
+8/2 22:05:17.964  SPELL_CAST_SUCCESS,Player-4647-016595AB,"Trystanya-Grobbulus",0x518,0x0,Creature-0-4378-0-92-604-0000277075,"Plague Spreader",0xa48,0x0,5019,"Shoot",0x1,Player-4647-016595AB,0000000000000000,88,100,0,0,0,-1,0,0,0,-10360.61,182.23,1431,0.1048,20
+8/2 22:05:17.964  SWING_DAMAGE,Creature-0-4378-0-92-604-0000277075,"Plague Spreader",0xa48,0x0,Player-4647-016595AB,"Trystanya-Grobbulus",0x518,0x0,Creature-0-4378-0-92-604-0000277075,0000000000000000,10,100,0,0,0,-1,0,0,0,-10356.84,182.27,1431,3.1523,27,35,40,-1,1,0,0,0,nil,nil,nil
+8/2 22:05:18.097  RANGE_DAMAGE,Player-4647-016595AB,"Trystanya-Grobbulus",0x518,0x0,Creature-0-4378-0-92-604-0000277075,"Plague Spreader",0xa48,0x0,5019,"Shoot",0x1,Creature-0-4378-0-92-604-0000277075,0000000000000000,6,100,0,0,0,-1,0,0,0,-10356.84,182.27,1431,3.1523,27,29,29,-1,64,0,0,0,nil,nil,nil
+8/2 22:05:18.108  SPELL_AURA_REMOVED_DOSE,Player-4647-016595AB,"Trystanya-Grobbulus",0x518,0x0,Player-4647-016595AB,"Trystanya-Grobbulus",0x518,0x0,7128,"Inner Fire",0x2,BUFF,9
+8/2 22:05:18.108  SWING_DAMAGE_LANDED,Creature-0-4378-0-92-604-0000277075,"Plague Spreader",0xa48,0x0,Player-4647-016595AB,"Trystanya-Grobbulus",0x518,0x0,Player-4647-016595AB,0000000000000000,84,100,0,0,0,-1,0,0,0,-10360.61,182.23,1431,0.1048,20,35,40,-1,1,0,0,0,nil,nil,nil
+8/2 22:05:18.739  SPELL_CAST_START,Player-4647-016595AB,"Trystanya-Grobbulus",0x518,0x0,0000000000000000,nil,0x80000000,0x80000000,5019,"Shoot",0x1
+8/2 22:05:19.240  SPELL_CAST_SUCCESS,Player-4647-016595AB,"Trystanya-Grobbulus",0x518,0x0,Creature-0-4378-0-92-604-0000277075,"Plague Spreader",0xa28,0x0,5019,"Shoot",0x1,Player-4647-016595AB,0000000000000000,84,100,0,0,0,-1,0,0,0,-10360.61,182.23,1431,0.1048,20
+8/2 22:05:27.273  SPELL_AURA_APPLIED,Player-4647-0157D064,"Chargoop-Grobbulus",0x518,0x0,Player-4647-0157D064,"Chargoop-Grobbulus",0x518,0x0,5118,"Aspect of the Cheetah",0x8,BUFF
+8/2 22:05:28.584  SPELL_AURA_APPLIED,Player-4647-016301AC,"Doronar-Grobbulus",0x518,0x0,Player-4647-016301AC,"Doronar-Grobbulus",0x518,0x0,2457,"Battle Stance",0x1,BUFF
+8/2 22:05:28.584  SPELL_AURA_APPLIED,Player-4647-01659C9A,"Dangledalf-Grobbulus",0x528,0x0,Player-4647-016301AC,"Doronar-Grobbulus",0x518,0x0,1461,"Arcane Intellect",0x40,BUFF
+8/2 22:05:28.584  SPELL_AURA_APPLIED,Creature-0-4378-0-92-930-0000276190,"Black Widow Hatchling",0xa48,0x0,Player-4647-016301AC,"Doronar-Grobbulus",0x518,0x0,7367,"Infected Bite",0x8,DEBUFF
+8/2 22:05:32.057  SPELL_AURA_APPLIED,Player-4647-00C3ED87,"Mithrilduin-Grobbulus",0x518,0x0,Player-4647-00C3ED87,"Mithrilduin-Grobbulus",0x518,0x0,2457,"Battle Stance",0x1,BUFF
+8/2 22:05:32.057  SPELL_AURA_APPLIED,Player-4647-0136ED1C,"Gruffheals-Grobbulus",0x528,0x0,Player-4647-00C3ED87,"Mithrilduin-Grobbulus",0x518,0x0,1245,"Power Word: Fortitude",0x2,BUFF
+8/2 22:05:43.628  SWING_DAMAGE,Creature-0-4378-0-92-923-000027488A,"Young Black Ravager",0xa48,0x0,Creature-0-4378-0-92-2110-00002770C4,"Black Rat",0xa28,0x0,Creature-0-4378-0-92-923-000027488A,0000000000000000,100,100,0,0,0,-1,0,0,0,-10871.65,-295.45,1431,4.9036,24,58,38,57,1,0,0,0,nil,nil,1
+8/2 22:05:43.628  SWING_DAMAGE_LANDED,Creature-0-4378-0-92-923-000027488A,"Young Black Ravager",0xa48,0x0,Creature-0-4378-0-92-2110-00002770C4,"Black Rat",0xa28,0x0,Creature-0-4378-0-92-2110-00002770C4,0000000000000000,0,100,0,0,0,-1,0,0,0,-10870.93,-299.16,1431,4.8276,1,58,38,57,1,0,0,0,nil,nil,1
+8/2 22:05:47.995  SPELL_AURA_APPLIED,Player-4647-016074A6,"Rakeal-Grobbulus",0x518,0x0,Player-4647-016074A6,"Rakeal-Grobbulus",0x518,0x0,2457,"Battle Stance",0x1,BUFF
+8/2 22:05:47.995  SPELL_AURA_APPLIED,Player-4647-0155C944,"Anoras-Grobbulus",0x528,0x0,Player-4647-016074A6,"Rakeal-Grobbulus",0x518,0x0,1245,"Power Word: Fortitude",0x2,BUFF
+8/2 22:06:11.010  SPELL_AURA_APPLIED,Player-4647-015D6FB3,"Lightward-Grobbulus",0x518,0x0,Player-4647-015D6FB3,"Lightward-Grobbulus",0x518,0x0,13819,"Summon Warhorse",0x2,BUFF
+8/2 22:06:11.010  SPELL_AURA_APPLIED,Player-4647-00E31131,"Punischer-Grobbulus",0x528,0x0,Player-4647-015D6FB3,"Lightward-Grobbulus",0x518,0x0,20906,"Trueshot Aura",0x40,BUFF
+8/2 22:06:11.010  SPELL_AURA_APPLIED,Creature-0-4378-0-78-173754-0000204D79,"Major Mattingly Jr.",0xa28,0x0,Player-4647-0136ED1C,"Gruffheals-Grobbulus",0x518,0x0,22888,"Rallying Cry of the Dragonslayer",0x1,BUFF
+8/2 22:06:11.010  SPELL_AURA_APPLIED,Player-4647-0136ED1C,"Gruffheals-Grobbulus",0x518,0x0,Player-4647-0136ED1C,"Gruffheals-Grobbulus",0x518,0x0,1245,"Power Word: Fortitude",0x2,BUFF
+8/2 22:06:11.010  SPELL_AURA_APPLIED,Player-4647-0136ED1C,"Gruffheals-Grobbulus",0x518,0x0,Player-4647-0136ED1C,"Gruffheals-Grobbulus",0x518,0x0,588,"Inner Fire",0x2,BUFF
+8/2 22:06:11.010  SPELL_AURA_APPLIED,Player-4647-01473991,"Canny-Grobbulus",0x518,0x0,Player-4647-01473991,"Canny-Grobbulus",0x518,0x0,8221,"Yaaarrrr",0x1,BUFF
+8/2 22:06:11.010  SPELL_AURA_APPLIED,Player-4647-010426CE,"Karanâ-Grobbulus",0x528,0x0,Player-4647-015AD8CB,"Candiery-Grobbulus",0x518,0x0,1245,"Power Word: Fortitude",0x2,BUFF
+8/2 22:06:11.010  SPELL_AURA_APPLIED,Player-4647-015F329E,"Remmie-Grobbulus",0x528,0x0,Player-4647-015AD8CB,"Candiery-Grobbulus",0x518,0x0,1461,"Arcane Intellect",0x40,BUFF
+8/2 22:06:11.010  SPELL_AURA_APPLIED,Player-4647-014BDAEF,"Emmamilf-Grobbulus",0x528,0x0,Player-4647-00E31131,"Punischer-Grobbulus",0x518,0x0,10157,"Arcane Intellect",0x40,BUFF
+8/2 22:06:11.010  SPELL_AURA_APPLIED,Player-4647-00E31131,"Punischer-Grobbulus",0x518,0x0,Player-4647-00E31131,"Punischer-Grobbulus",0x518,0x0,14322,"Aspect of the Hawk",0x8,BUFF
+8/2 22:06:11.010  SPELL_AURA_APPLIED,Player-4647-00E31131,"Punischer-Grobbulus",0x518,0x0,Player-4647-00E31131,"Punischer-Grobbulus",0x518,0x0,20906,"Trueshot Aura",0x40,BUFF
+8/2 22:06:11.276  SPELL_AURA_APPLIED,Creature-0-4378-0-78-173754-0000204D79,"Major Mattingly Jr.",0xa28,0x0,Player-4647-015D440E,"Rendtko-Grobbulus",0x518,0x0,22888,"Rallying Cry of the Dragonslayer",0x1,BUFF
+8/2 22:06:11.276  SPELL_AURA_APPLIED,Player-4647-015D440E,"Rendtko-Grobbulus",0x518,0x0,Player-4647-015D440E,"Rendtko-Grobbulus",0x518,0x0,7301,"Frost Armor",0x10,BUFF
+8/2 22:06:11.276  SPELL_AURA_APPLIED,Player-4647-015D440E,"Rendtko-Grobbulus",0x518,0x0,Player-4647-015D440E,"Rendtko-Grobbulus",0x518,0x0,1460,"Arcane Intellect",0x40,BUFF
+8/2 22:06:11.276  SPELL_AURA_APPLIED,Creature-0-4378-0-78-173754-0000204D79,"Major Mattingly Jr.",0xa28,0x0,Player-4647-015CF2CB,"Diixiee-Grobbulus",0x518,0x0,22888,"Rallying Cry of the Dragonslayer",0x1,BUFF
+8/2 22:06:11.276  SPELL_AURA_APPLIED,Player-4647-015D440E,"Rendtko-Grobbulus",0x518,0x0,Player-4647-015CF2CB,"Diixiee-Grobbulus",0x518,0x0,1460,"Arcane Intellect",0x40,BUFF
+8/2 22:06:11.276  SPELL_AURA_APPLIED,Player-4647-013CD2A8,"Dipsey-Grobbulus",0x528,0x0,Player-4647-015CF2CB,"Diixiee-Grobbulus",0x518,0x0,1245,"Power Word: Fortitude",0x2,BUFF
+8/2 22:06:12.249  SPELL_AURA_APPLIED,0000000000000000,nil,0x80000000,0x80000000,Player-4647-0160024F,"Olienzo-Grobbulus",0x518,0x0,24425,"Spirit of Zandalar",0x1,BUFF
+8/2 22:06:12.249  SPELL_AURA_APPLIED,Player-4647-001BA52F,"Elm-Grobbulus",0x528,0x0,Player-4647-0160024F,"Olienzo-Grobbulus",0x518,0x0,9884,"Mark of the Wild",0x8,BUFF
+8/2 22:06:12.249  SPELL_AURA_APPLIED,Player-4647-0160024F,"Olienzo-Grobbulus",0x518,0x0,Player-4647-0160024F,"Olienzo-Grobbulus",0x518,0x0,13819,"Summon Warhorse",0x2,BUFF
+8/2 22:06:12.249  SPELL_AURA_APPLIED,Creature-0-4378-0-78-173754-0000204D79,"Major Mattingly Jr.",0xa28,0x0,Player-4647-0045FA82,"Aboveavgjoe-Grobbulus",0x514,0x0,22888,"Rallying Cry of the Dragonslayer",0x1,BUFF
+8/2 22:06:12.249  SPELL_AURA_APPLIED,Player-4647-0045FA82,"Aboveavgjoe-Grobbulus",0x514,0x0,Player-4647-0045FA82,"Aboveavgjoe-Grobbulus",0x514,0x0,24382,"Spirit of Zanza",0x1,BUFF
+8/2 22:06:12.249  SPELL_AURA_APPLIED,Player-4647-00069D55,"Skadoosh-Grobbulus",0x514,0x0,Player-4647-0045FA82,"Aboveavgjoe-Grobbulus",0x514,0x0,9885,"Mark of the Wild",0x8,BUFF
+8/2 22:06:12.249  SPELL_AURA_APPLIED,Player-4647-00359560,"Thedilf-Grobbulus",0x514,0x0,Player-4647-0045FA82,"Aboveavgjoe-Grobbulus",0x514,0x0,21564,"Prayer of Fortitude",0x2,BUFF
+8/2 22:06:12.249  SPELL_AURA_APPLIED,Player-4647-0027CF1A,"Kaid-Grobbulus",0x514,0x0,Player-4647-0045FA82,"Aboveavgjoe-Grobbulus",0x514,0x0,25895,"Greater Blessing of Salvation",0x2,BUFF
+8/2 22:06:12.249  SPELL_AURA_APPLIED,Player-4647-003FB70E,"Dullhammer-Grobbulus",0x514,0x0,Player-4647-0045FA82,"Aboveavgjoe-Grobbulus",0x514,0x0,25782,"Greater Blessing of Might",0x2,BUFF
+8/2 22:06:12.249  SPELL_AURA_APPLIED,Player-4647-0045FA82,"Aboveavgjoe-Grobbulus",0x514,0x0,Player-4647-0045FA82,"Aboveavgjoe-Grobbulus",0x514,0x0,11405,"Elixir of the Giants",0x1,BUFF
+8/2 22:06:12.249  SPELL_AURA_APPLIED,Player-4647-0045FA82,"Aboveavgjoe-Grobbulus",0x514,0x0,Player-4647-0045FA82,"Aboveavgjoe-Grobbulus",0x514,0x0,11334,"Greater Agility",0x1,BUFF
+8/2 22:06:12.249  SPELL_AURA_APPLIED,Player-4647-0045FA82,"Aboveavgjoe-Grobbulus",0x514,0x0,Player-4647-0045FA82,"Aboveavgjoe-Grobbulus",0x514,0x0,18125,"Blessed Sunfruit",0x1,BUFF
+8/2 22:06:12.249  SPELL_AURA_APPLIED,Player-4647-007D0D82,"Xôggles-Grobbulus",0x528,0x0,Player-4647-012C8AFD,"Alysse-Grobbulus",0x518,0x0,9885,"Mark of the Wild",0x8,BUFF
+8/2 22:06:12.249  SPELL_AURA_APPLIED,Player-4647-014D4B44,"Aquil-Grobbulus",0x518,0x0,Player-4647-014D4B44,"Aquil-Grobbulus",0x518,0x0,643,"Devotion Aura",0x2,BUFF
+8/2 22:06:12.249  SPELL_AURA_APPLIED,Player-4647-014D4B44,"Aquil-Grobbulus",0x518,0x0,Player-4647-014D4B44,"Aquil-Grobbulus",0x518,0x0,19835,"Blessing of Might",0x2,BUFF
+8/2 22:06:12.249  SPELL_AURA_APPLIED,0000000000000000,nil,0x80000000,0x80000000,Player-4647-009EA973,"Vanheim-Grobbulus",0x518,0x0,24425,"Spirit of Zandalar",0x1,BUFF
+8/2 22:06:12.249  SPELL_AURA_APPLIED,Player-4647-009EA973,"Vanheim-Grobbulus",0x518,0x0,Player-4647-009EA973,"Vanheim-Grobbulus",0x518,0x0,5234,"Mark of the Wild",0x8,BUFF
+8/2 22:06:12.249  SPELL_AURA_APPLIED,Player-4647-015462C1,"Terrortot-Grobbulus",0x518,0x0,Player-4647-015462C1,"Terrortot-Grobbulus",0x518,0x0,706,"Demon Armor",0x20,BUFF
+8/2 22:06:12.249  SPELL_AURA_APPLIED,Player-4647-0158C663,"Rozzalynn-Grobbulus",0x528,0x0,Player-4647-015462C1,"Terrortot-Grobbulus",0x518,0x0,1245,"Power Word: Fortitude",0x2,BUFF
+8/2 22:06:14.417  SPELL_AURA_APPLIED,Player-4647-00069D55,"Skadoosh-Grobbulus",0x514,0x0,Player-4647-00DA6F85,"Cleanlinen-Grobbulus",0x514,0x0,9885,"Mark of the Wild",0x8,BUFF
+8/2 22:06:14.417  SPELL_AURA_APPLIED,Player-4647-00C33D36,"Evielynn-Grobbulus",0x512,0x0,Player-4647-00DA6F85,"Cleanlinen-Grobbulus",0x514,0x0,27681,"Prayer of Spirit",0x2,BUFF
+8/2 22:06:14.417  SPELL_AURA_APPLIED,Player-4647-00DA6F85,"Cleanlinen-Grobbulus",0x514,0x0,Player-4647-00DA6F85,"Cleanlinen-Grobbulus",0x514,0x0,17538,"Elixir of the Mongoose",0x1,BUFF
+8/2 22:06:14.417  SPELL_AURA_APPLIED,Player-4647-00DA6F85,"Cleanlinen-Grobbulus",0x514,0x0,Player-4647-00DA6F85,"Cleanlinen-Grobbulus",0x514,0x0,11405,"Elixir of the Giants",0x1,BUFF
+8/2 22:06:14.417  SPELL_AURA_APPLIED,Player-4647-003FB70E,"Dullhammer-Grobbulus",0x514,0x0,Player-4647-00DA6F85,"Cleanlinen-Grobbulus",0x514,0x0,25782,"Greater Blessing of Might",0x2,BUFF
+8/2 22:06:15.587  SPELL_AURA_APPLIED,Player-4647-00601F78,"Scrap-Grobbulus",0x514,0x0,Player-4647-00601F78,"Scrap-Grobbulus",0x514,0x0,2457,"Battle Stance",0x1,BUFF
+8/2 22:06:15.587  SPELL_AURA_APPLIED,0000000000000000,nil,0x80000000,0x80000000,Player-4647-00601F78,"Scrap-Grobbulus",0x514,0x0,24425,"Spirit of Zandalar",0x1,BUFF
+8/2 22:06:15.587  SPELL_AURA_APPLIED,Player-4647-00069D55,"Skadoosh-Grobbulus",0x514,0x0,Player-4647-00601F78,"Scrap-Grobbulus",0x514,0x0,9885,"Mark of the Wild",0x8,BUFF
+8/2 22:06:15.587  SPELL_AURA_APPLIED,Creature-0-4378-0-78-173754-0000204D79,"Major Mattingly Jr.",0xa28,0x0,Player-4647-00601F78,"Scrap-Grobbulus",0x514,0x0,22888,"Rallying Cry of the Dragonslayer",0x1,BUFF
+8/2 22:06:15.587  SPELL_AURA_APPLIED,Player-4647-0126C459,"Daht-Grobbulus",0x514,0x0,Player-4647-00601F78,"Scrap-Grobbulus",0x514,0x0,21564,"Prayer of Fortitude",0x2,BUFF
+8/2 22:06:15.587  SPELL_AURA_APPLIED,Player-4647-0027CF1A,"Kaid-Grobbulus",0x514,0x0,Player-4647-00601F78,"Scrap-Grobbulus",0x514,0x0,25895,"Greater Blessing of Salvation",0x2,BUFF
+8/2 22:06:15.587  SPELL_AURA_APPLIED,Player-4647-0126C459,"Daht-Grobbulus",0x514,0x0,Player-4647-00601F78,"Scrap-Grobbulus",0x514,0x0,27681,"Prayer of Spirit",0x2,BUFF
+8/2 22:06:15.587  SPELL_AURA_APPLIED,Player-4647-003FB70E,"Dullhammer-Grobbulus",0x514,0x0,Player-4647-00601F78,"Scrap-Grobbulus",0x514,0x0,25782,"Greater Blessing of Might",0x2,BUFF
+8/2 22:06:20.485  SPELL_AURA_APPLIED,0000000000000000,nil,0x80000000,0x80000000,Player-4647-009EA973,"Vanheim-Grobbulus",0x518,0x0,24425,"Spirit of Zandalar",0x1,BUFF
+8/2 22:06:20.485  SPELL_AURA_APPLIED,Player-4647-009EA973,"Vanheim-Grobbulus",0x518,0x0,Player-4647-009EA973,"Vanheim-Grobbulus",0x518,0x0,5234,"Mark of the Wild",0x8,BUFF
+8/2 22:06:26.586  SPELL_AURA_APPLIED,Creature-0-4378-0-78-173754-0000204D79,"Major Mattingly Jr.",0xa28,0x0,Player-4647-0136ED1C,"Gruffheals-Grobbulus",0x518,0x0,22888,"Rallying Cry of the Dragonslayer",0x1,BUFF
+8/2 22:06:26.586  SPELL_AURA_APPLIED,Player-4647-0136ED1C,"Gruffheals-Grobbulus",0x518,0x0,Player-4647-0136ED1C,"Gruffheals-Grobbulus",0x518,0x0,1245,"Power Word: Fortitude",0x2,BUFF
+8/2 22:06:26.586  SPELL_AURA_APPLIED,Player-4647-0136ED1C,"Gruffheals-Grobbulus",0x518,0x0,Player-4647-0136ED1C,"Gruffheals-Grobbulus",0x518,0x0,588,"Inner Fire",0x2,BUFF
+8/2 22:06:26.586  SPELL_AURA_APPLIED,0000000000000000,nil,0x80000000,0x80000000,Player-4647-0124A32D,"Lariatte-Grobbulus",0x514,0x0,24425,"Spirit of Zandalar",0x1,BUFF
+8/2 22:06:26.586  SPELL_AURA_APPLIED,Creature-0-4378-0-78-173754-0000204D79,"Major Mattingly Jr.",0xa28,0x0,Player-4647-0124A32D,"Lariatte-Grobbulus",0x514,0x0,22888,"Rallying Cry of the Dragonslayer",0x1,BUFF
+8/2 22:06:26.586  SPELL_AURA_APPLIED,Player-4647-0126C459,"Daht-Grobbulus",0x514,0x0,Player-4647-0124A32D,"Lariatte-Grobbulus",0x514,0x0,21564,"Prayer of Fortitude",0x2,BUFF
+8/2 22:06:26.586  SPELL_AURA_APPLIED,Player-4647-003FB70E,"Dullhammer-Grobbulus",0x514,0x0,Player-4647-0124A32D,"Lariatte-Grobbulus",0x514,0x0,25894,"Greater Blessing of Wisdom",0x2,BUFF
+8/2 22:06:26.586  SPELL_AURA_APPLIED,Player-4647-004B1C51,"Skadii-Grobbulus",0x514,0x0,Player-4647-0124A32D,"Lariatte-Grobbulus",0x514,0x0,23028,"Arcane Brilliance",0x40,BUFF
+8/2 22:06:26.586  SPELL_AURA_APPLIED,Player-4647-00069D55,"Skadoosh-Grobbulus",0x514,0x0,Player-4647-0124A32D,"Lariatte-Grobbulus",0x514,0x0,9885,"Mark of the Wild",0x8,BUFF
+8/2 22:06:26.586  SPELL_AURA_APPLIED,Player-4647-0027CF1A,"Kaid-Grobbulus",0x514,0x0,Player-4647-0124A32D,"Lariatte-Grobbulus",0x514,0x0,25895,"Greater Blessing of Salvation",0x2,BUFF
+8/2 22:06:26.586  SPELL_AURA_APPLIED,Player-4647-00359560,"Thedilf-Grobbulus",0x514,0x0,Player-4647-0124A32D,"Lariatte-Grobbulus",0x514,0x0,27681,"Prayer of Spirit",0x2,BUFF
+8/2 22:06:26.586  SPELL_AURA_APPLIED,Player-4647-014D4B44,"Aquil-Grobbulus",0x518,0x0,Player-4647-014D4B44,"Aquil-Grobbulus",0x518,0x0,643,"Devotion Aura",0x2,BUFF
+8/2 22:06:26.586  SPELL_AURA_APPLIED,Player-4647-014D4B44,"Aquil-Grobbulus",0x518,0x0,Player-4647-014D4B44,"Aquil-Grobbulus",0x518,0x0,19835,"Blessing of Might",0x2,BUFF
+8/2 22:06:27.820  SPELL_AURA_APPLIED,0000000000000000,nil,0x80000000,0x80000000,Player-4647-0160024F,"Olienzo-Grobbulus",0x518,0x0,24425,"Spirit of Zandalar",0x1,BUFF
+8/2 22:06:27.820  SPELL_AURA_APPLIED,Player-4647-001BA52F,"Elm-Grobbulus",0x528,0x0,Player-4647-0160024F,"Olienzo-Grobbulus",0x518,0x0,9884,"Mark of the Wild",0x8,BUFF
+8/2 22:06:27.820  SPELL_AURA_APPLIED,Player-4647-0160024F,"Olienzo-Grobbulus",0x518,0x0,Player-4647-0160024F,"Olienzo-Grobbulus",0x518,0x0,13819,"Summon Warhorse",0x2,BUFF
+8/2 22:06:33.875  SPELL_AURA_APPLIED,0000000000000000,nil,0x80000000,0x80000000,Player-4647-013390C0,"Zobrak-Grobbulus",0x514,0x0,15366,"Songflower Serenade",0x8,BUFF
+8/2 22:06:33.875  SPELL_AURA_APPLIED,Player-4647-013390C0,"Zobrak-Grobbulus",0x514,0x0,Player-4647-013390C0,"Zobrak-Grobbulus",0x514,0x0,19883,"Track Humanoids",0x1,BUFF
+8/2 22:06:33.875  SPELL_AURA_APPLIED,Player-4647-013390C0,"Zobrak-Grobbulus",0x514,0x0,Player-4647-013390C0,"Zobrak-Grobbulus",0x514,0x0,20906,"Trueshot Aura",0x40,BUFF
+8/2 22:06:33.875  SPELL_AURA_APPLIED,Player-4647-0027CF1A,"Kaid-Grobbulus",0x514,0x0,Player-4647-013390C0,"Zobrak-Grobbulus",0x514,0x0,25895,"Greater Blessing of Salvation",0x2,BUFF
+8/2 22:06:33.875  SPELL_AURA_APPLIED,Player-4647-013390C0,"Zobrak-Grobbulus",0x514,0x0,Player-4647-013390C0,"Zobrak-Grobbulus",0x514,0x0,14322,"Aspect of the Hawk",0x8,BUFF
+8/2 22:06:33.875  SPELL_AURA_APPLIED,Player-4647-014E4A39,"Bashley-Grobbulus",0x514,0x0,Player-4647-013390C0,"Zobrak-Grobbulus",0x514,0x0,21850,"Gift of the Wild",0x8,BUFF
+8/2 22:06:33.875  SPELL_AURA_APPLIED,Player-4647-013390C0,"Zobrak-Grobbulus",0x514,0x0,Player-4647-013390C0,"Zobrak-Grobbulus",0x514,0x0,17538,"Elixir of the Mongoose",0x1,BUFF
+8/2 22:06:33.875  SPELL_AURA_APPLIED,Player-4647-0126C459,"Daht-Grobbulus",0x514,0x0,Player-4647-013390C0,"Zobrak-Grobbulus",0x514,0x0,27681,"Prayer of Spirit",0x2,BUFF
+8/2 22:06:33.875  SPELL_AURA_APPLIED,Player-4647-003FB70E,"Dullhammer-Grobbulus",0x514,0x0,Player-4647-013390C0,"Zobrak-Grobbulus",0x514,0x0,25894,"Greater Blessing of Wisdom",0x2,BUFF
+8/2 22:06:33.875  SPELL_AURA_APPLIED,Player-4647-0042E8D4,"Ethlumi-Grobbulus",0x514,0x0,Player-4647-013390C0,"Zobrak-Grobbulus",0x514,0x0,10157,"Arcane Intellect",0x40,BUFF
+8/2 22:06:33.875  SPELL_AURA_APPLIED,Player-4647-0126C459,"Daht-Grobbulus",0x514,0x0,Player-4647-013390C0,"Zobrak-Grobbulus",0x514,0x0,21564,"Prayer of Fortitude",0x2,BUFF
+8/2 22:06:33.875  SPELL_AURA_APPLIED,Player-4647-013390C0,"Zobrak-Grobbulus",0x514,0x0,Player-4647-013390C0,"Zobrak-Grobbulus",0x514,0x0,23445,"Evil Twin",0x8,DEBUFF
+8/2 22:06:37.628  SPELL_PERIODIC_ENERGIZE,Player-4647-003FB70E,"Dullhammer-Grobbulus",0x514,0x0,Player-4647-0124A32D,"Lariatte-Grobbulus",0x514,0x0,25894,"Greater Blessing of Wisdom",0x2,Player-4647-0124A32D,0000000000000000,82,100,0,0,0,-1,0,0,0,-10516.41,-1264.80,1431,2.8492,67,36.0000,0.0000,0,4894
+8/2 22:06:39.129  SPELL_AURA_APPLIED,Player-4647-013390C0,"Zobrak-Grobbulus",0x514,0x0,Player-4647-00601F78,"Scrap-Grobbulus",0x514,0x0,20906,"Trueshot Aura",0x40,BUFF
+8/2 22:06:42.502  SPELL_AURA_APPLIED,Player-4647-0162C1DB,"Einzweild-Grobbulus",0x518,0x0,Player-4647-0162C1DB,"Einzweild-Grobbulus",0x518,0x0,2457,"Battle Stance",0x1,BUFF
+8/2 22:06:42.502  SPELL_AURA_APPLIED,Player-4647-016595AB,"Trystanya-Grobbulus",0x528,0x0,Player-4647-0162C1DB,"Einzweild-Grobbulus",0x518,0x0,1245,"Power Word: Fortitude",0x2,BUFF
+8/2 22:06:42.502  SPELL_AURA_APPLIED,Player-4647-0162C1DB,"Einzweild-Grobbulus",0x518,0x0,Player-4647-0162C1DB,"Einzweild-Grobbulus",0x518,0x0,6192,"Battle Shout",0x1,BUFF
+8/2 22:06:42.502  SPELL_AURA_APPLIED,0000000000000000,nil,0x80000000,0x80000000,Player-4647-00702F7E,"Gasa-Grobbulus",0x514,0x0,24425,"Spirit of Zandalar",0x1,BUFF
+8/2 22:06:42.502  SPELL_AURA_APPLIED,Creature-0-4378-0-78-173754-0000204D79,"Major Mattingly Jr.",0xa28,0x0,Player-4647-00702F7E,"Gasa-Grobbulus",0x514,0x0,22888,"Rallying Cry of the Dragonslayer",0x1,BUFF
+8/2 22:06:42.502  SPELL_AURA_APPLIED,Player-4647-0027CF1A,"Kaid-Grobbulus",0x514,0x0,Player-4647-00702F7E,"Gasa-Grobbulus",0x514,0x0,25895,"Greater Blessing of Salvation",0x2,BUFF
+8/2 22:06:42.502  SPELL_AURA_APPLIED,Player-4647-004B1C51,"Skadii-Grobbulus",0x514,0x0,Player-4647-00702F7E,"Gasa-Grobbulus",0x514,0x0,23028,"Arcane Brilliance",0x40,BUFF
+8/2 22:06:42.502  SPELL_AURA_APPLIED,Player-4647-00702F7E,"Gasa-Grobbulus",0x514,0x0,Player-4647-00702F7E,"Gasa-Grobbulus",0x514,0x0,10958,"Shadow Protection",0x20,BUFF
+8/2 22:06:42.502  SPELL_AURA_APPLIED,Player-4647-00069D55,"Skadoosh-Grobbulus",0x514,0x0,Player-4647-00702F7E,"Gasa-Grobbulus",0x514,0x0,9885,"Mark of the Wild",0x8,BUFF
+8/2 22:06:42.502  SPELL_AURA_APPLIED,Player-4647-0126C459,"Daht-Grobbulus",0x514,0x0,Player-4647-00702F7E,"Gasa-Grobbulus",0x514,0x0,21564,"Prayer of Fortitude",0x2,BUFF
+8/2 22:06:42.502  SPELL_AURA_APPLIED,Player-4647-003FB70E,"Dullhammer-Grobbulus",0x514,0x0,Player-4647-00702F7E,"Gasa-Grobbulus",0x514,0x0,25894,"Greater Blessing of Wisdom",0x2,BUFF
+8/2 22:06:42.502  SPELL_AURA_APPLIED,Player-4647-00359560,"Thedilf-Grobbulus",0x514,0x0,Player-4647-00702F7E,"Gasa-Grobbulus",0x514,0x0,27681,"Prayer of Spirit",0x2,BUFF
+8/2 22:06:43.602  SPELL_AURA_APPLIED,0000000000000000,nil,0x80000000,0x80000000,Player-4647-000B922F,"Brokster-Grobbulus",0x514,0x0,24425,"Spirit of Zandalar",0x1,BUFF
+8/2 22:06:43.602  SPELL_AURA_APPLIED,Player-4647-000B922F,"Brokster-Grobbulus",0x514,0x0,Player-4647-000B922F,"Brokster-Grobbulus",0x514,0x0,22783,"Mage Armor",0x40,BUFF
+8/2 22:06:43.602  SPELL_AURA_APPLIED,Player-4647-003FB70E,"Dullhammer-Grobbulus",0x514,0x0,Player-4647-000B922F,"Brokster-Grobbulus",0x514,0x0,25894,"Greater Blessing of Wisdom",0x2,BUFF
+8/2 22:06:43.602  SPELL_AURA_APPLIED,Creature-0-4378-0-78-173754-0000204D79,"Major Mattingly Jr.",0xa28,0x0,Player-4647-000B922F,"Brokster-Grobbulus",0x514,0x0,22888,"Rallying Cry of the Dragonslayer",0x1,BUFF
+8/2 22:06:43.602  SPELL_AURA_APPLIED,Player-4647-00069D55,"Skadoosh-Grobbulus",0x514,0x0,Player-4647-000B922F,"Brokster-Grobbulus",0x514,0x0,9885,"Mark of the Wild",0x8,BUFF
+8/2 22:06:43.602  SPELL_AURA_APPLIED,Player-4647-0027CF1A,"Kaid-Grobbulus",0x514,0x0,Player-4647-000B922F,"Brokster-Grobbulus",0x514,0x0,25895,"Greater Blessing of Salvation",0x2,BUFF
+8/2 22:06:43.602  SPELL_AURA_APPLIED,Player-4647-0126C459,"Daht-Grobbulus",0x514,0x0,Player-4647-000B922F,"Brokster-Grobbulus",0x514,0x0,21564,"Prayer of Fortitude",0x2,BUFF
+8/2 22:06:43.602  SPELL_AURA_APPLIED,Player-4647-004B1C51,"Skadii-Grobbulus",0x514,0x0,Player-4647-000B922F,"Brokster-Grobbulus",0x514,0x0,23028,"Arcane Brilliance",0x40,BUFF
+8/2 22:06:43.602  SPELL_AURA_APPLIED,Player-4647-00359560,"Thedilf-Grobbulus",0x514,0x0,Player-4647-000B922F,"Brokster-Grobbulus",0x514,0x0,27681,"Prayer of Spirit",0x2,BUFF
+8/2 22:06:48.801  SPELL_AURA_REMOVED,Player-4647-013390C0,"Zobrak-Grobbulus",0x514,0x0,Player-4647-00601F78,"Scrap-Grobbulus",0x514,0x0,20906,"Trueshot Aura",0x40,BUFF
+8/2 22:06:49.469  SPELL_AURA_REMOVED,Player-4647-00702F7E,"Gasa-Grobbulus",0x514,0x0,Player-4647-00702F7E,"Gasa-Grobbulus",0x514,0x0,10958,"Shadow Protection",0x20,BUFF
+8/2 22:06:53.550  SPELL_AURA_APPLIED,Player-4647-0158D5C0,"Blazegran-Grobbulus",0x518,0x0,Player-4647-0158D5C0,"Blazegran-Grobbulus",0x518,0x0,2457,"Battle Stance",0x1,BUFF
+8/2 22:06:55.719  SPELL_AURA_APPLIED,Player-4647-0158C663,"Rozzalynn-Grobbulus",0x518,0x0,Player-4647-0158C663,"Rozzalynn-Grobbulus",0x518,0x0,1245,"Power Word: Fortitude",0x2,BUFF
+8/2 22:06:55.719  SPELL_AURA_APPLIED,Player-4647-0158C663,"Rozzalynn-Grobbulus",0x518,0x0,Player-4647-0158C663,"Rozzalynn-Grobbulus",0x518,0x0,7128,"Inner Fire",0x2,BUFF
+8/2 22:06:55.719  SPELL_AURA_APPLIED,Player-4647-009C561B,"Gaebulg-Grobbulus",0x514,0x0,Player-4647-009C561B,"Gaebulg-Grobbulus",0x514,0x0,2458,"Berserker Stance",0x1,BUFF
+8/2 22:06:55.719  SPELL_AURA_APPLIED,Player-4647-00069D55,"Skadoosh-Grobbulus",0x514,0x0,Player-4647-009C561B,"Gaebulg-Grobbulus",0x514,0x0,9885,"Mark of the Wild",0x8,BUFF
+8/2 22:06:55.719  SPELL_AURA_APPLIED,Player-4647-0126C459,"Daht-Grobbulus",0x514,0x0,Player-4647-009C561B,"Gaebulg-Grobbulus",0x514,0x0,21564,"Prayer of Fortitude",0x2,BUFF
+8/2 22:06:55.719  SPELL_AURA_APPLIED,Player-4647-0126C459,"Daht-Grobbulus",0x514,0x0,Player-4647-009C561B,"Gaebulg-Grobbulus",0x514,0x0,27681,"Prayer of Spirit",0x2,BUFF
+8/2 22:06:55.719  SPELL_AURA_APPLIED,Player-4647-004B1C51,"Skadii-Grobbulus",0x514,0x0,Player-4647-009C561B,"Gaebulg-Grobbulus",0x514,0x0,23028,"Arcane Brilliance",0x40,BUFF
+8/2 22:06:55.719  SPELL_AURA_APPLIED,Player-4647-0027CF1A,"Kaid-Grobbulus",0x514,0x0,Player-4647-009C561B,"Gaebulg-Grobbulus",0x514,0x0,25895,"Greater Blessing of Salvation",0x2,BUFF
+8/2 22:06:55.719  SPELL_AURA_APPLIED,Player-4647-009C561B,"Gaebulg-Grobbulus",0x514,0x0,Player-4647-009C561B,"Gaebulg-Grobbulus",0x514,0x0,11405,"Elixir of the Giants",0x1,BUFF
+8/2 22:06:55.719  SPELL_AURA_APPLIED,Player-4647-009C561B,"Gaebulg-Grobbulus",0x514,0x0,Player-4647-009C561B,"Gaebulg-Grobbulus",0x514,0x0,17538,"Elixir of the Mongoose",0x1,BUFF
+8/2 22:06:55.719  SPELL_AURA_APPLIED,Player-4647-003FB70E,"Dullhammer-Grobbulus",0x514,0x0,Player-4647-009C561B,"Gaebulg-Grobbulus",0x514,0x0,25782,"Greater Blessing of Might",0x2,BUFF
+8/2 22:07:03.231  SPELL_AURA_APPLIED,Player-4647-016048BE,"Wayoutwest-Grobbulus",0x518,0x0,Player-4647-016048BE,"Wayoutwest-Grobbulus",0x518,0x0,8907,"Mark of the Wild",0x8,BUFF
+8/2 22:07:03.231  SPELL_AURA_APPLIED,Player-4647-016048BE,"Wayoutwest-Grobbulus",0x518,0x0,Player-4647-016048BE,"Wayoutwest-Grobbulus",0x518,0x0,8914,"Thorns",0x8,BUFF
+8/2 22:07:03.231  SPELL_AURA_APPLIED,Player-4647-016048BE,"Wayoutwest-Grobbulus",0x518,0x0,Player-4647-016048BE,"Wayoutwest-Grobbulus",0x518,0x0,783,"Travel Form",0x1,BUFF
+8/2 22:07:03.231  SPELL_AURA_APPLIED,Player-4647-016048BE,"Wayoutwest-Grobbulus",0x518,0x0,Player-4647-016048BE,"Wayoutwest-Grobbulus",0x518,0x0,8116,"Agility",0x8,BUFF
+8/2 22:07:06.650  SPELL_AURA_APPLIED,Player-4647-0068A71C,"Rooktar-Grobbulus",0x40514,0x0,Player-4647-0068A71C,"Rooktar-Grobbulus",0x40514,0x0,71,"Defensive Stance",0x1,BUFF
+8/2 22:07:06.650  SPELL_AURA_APPLIED,Creature-0-4380-429-24186-14321-0000271F46,"Guard Fengus",0xa28,0x0,Player-4647-0068A71C,"Rooktar-Grobbulus",0x40514,0x0,22817,"Fengus' Ferocity",0x8,BUFF
+8/2 22:07:06.650  SPELL_AURA_APPLIED,Creature-0-4380-429-24186-14326-0000271F46,"Guard Mol'dar",0xa28,0x0,Player-4647-0068A71C,"Rooktar-Grobbulus",0x40514,0x0,22818,"Mol'dar's Moxie",0x8,BUFF
+8/2 22:07:06.650  SPELL_AURA_APPLIED,Creature-0-4378-0-78-173754-0000204D79,"Major Mattingly Jr.",0xa28,0x0,Player-4647-0068A71C,"Rooktar-Grobbulus",0x40514,0x0,22888,"Rallying Cry of the Dragonslayer",0x1,BUFF
+8/2 22:07:06.650  SPELL_AURA_APPLIED,Player-4647-0068A71C,"Rooktar-Grobbulus",0x40514,0x0,Player-4647-0068A71C,"Rooktar-Grobbulus",0x40514,0x0,17538,"Elixir of the Mongoose",0x1,BUFF
+8/2 22:07:06.650  SPELL_AURA_APPLIED,Player-4647-0068A71C,"Rooktar-Grobbulus",0x40514,0x0,Player-4647-0068A71C,"Rooktar-Grobbulus",0x40514,0x0,22789,"Gordok Green Grog",0x1,BUFF
+8/2 22:07:06.650  SPELL_AURA_APPLIED,Player-4647-0124A32D,"Lariatte-Grobbulus",0x514,0x0,Player-4647-0068A71C,"Rooktar-Grobbulus",0x40514,0x0,9885,"Mark of the Wild",0x8,BUFF
+8/2 22:07:06.650  SPELL_AURA_APPLIED,Player-4647-0068A71C,"Rooktar-Grobbulus",0x40514,0x0,Player-4647-0068A71C,"Rooktar-Grobbulus",0x40514,0x0,11405,"Elixir of the Giants",0x1,BUFF
+8/2 22:07:06.650  SPELL_AURA_APPLIED,Player-4647-0068A71C,"Rooktar-Grobbulus",0x40514,0x0,Player-4647-0068A71C,"Rooktar-Grobbulus",0x40514,0x0,11348,"Greater Armor",0x1,BUFF
+8/2 22:07:06.650  SPELL_AURA_APPLIED,Player-4647-003FB70E,"Dullhammer-Grobbulus",0x514,0x0,Player-4647-0068A71C,"Rooktar-Grobbulus",0x40514,0x0,25782,"Greater Blessing of Might",0x2,BUFF
+8/2 22:07:06.650  SPELL_AURA_APPLIED,Player-4647-00359560,"Thedilf-Grobbulus",0x514,0x0,Player-4647-0068A71C,"Rooktar-Grobbulus",0x40514,0x0,21564,"Prayer of Fortitude",0x2,BUFF
+8/2 22:07:07.816  SPELL_AURA_APPLIED,Player-4647-014E4A39,"Bashley-Grobbulus",0x514,0x0,Player-4647-000735D2,"Sinderella-Grobbulus",0x514,0x0,21850,"Gift of the Wild",0x8,BUFF
+8/2 22:07:07.816  SPELL_AURA_APPLIED,Player-4647-0126C459,"Daht-Grobbulus",0x514,0x0,Player-4647-000735D2,"Sinderella-Grobbulus",0x514,0x0,27681,"Prayer of Spirit",0x2,BUFF
+8/2 22:07:07.816  SPELL_AURA_APPLIED,Player-4647-0042E8D4,"Ethlumi-Grobbulus",0x514,0x0,Player-4647-000735D2,"Sinderella-Grobbulus",0x514,0x0,23028,"Arcane Brilliance",0x40,BUFF
+8/2 22:07:07.816  SPELL_AURA_APPLIED,Player-4647-003FB70E,"Dullhammer-Grobbulus",0x514,0x0,Player-4647-000735D2,"Sinderella-Grobbulus",0x514,0x0,25782,"Greater Blessing of Might",0x2,BUFF
+8/2 22:07:07.816  SPELL_AURA_APPLIED,Player-4647-0027CF1A,"Kaid-Grobbulus",0x514,0x0,Player-4647-000735D2,"Sinderella-Grobbulus",0x514,0x0,25895,"Greater Blessing of Salvation",0x2,BUFF
+8/2 22:07:07.816  SPELL_AURA_APPLIED,Player-4647-0126C459,"Daht-Grobbulus",0x514,0x0,Player-4647-000735D2,"Sinderella-Grobbulus",0x514,0x0,21564,"Prayer of Fortitude",0x2,BUFF
+8/2 22:07:10.298  SPELL_AURA_APPLIED,Player-4647-0162C1DB,"Einzweild-Grobbulus",0x518,0x0,Player-4647-0162C1DB,"Einzweild-Grobbulus",0x518,0x0,2457,"Battle Stance",0x1,BUFF
+8/2 22:07:10.298  SPELL_AURA_APPLIED,Player-4647-016595AB,"Trystanya-Grobbulus",0x528,0x0,Player-4647-0162C1DB,"Einzweild-Grobbulus",0x518,0x0,1245,"Power Word: Fortitude",0x2,BUFF
+8/2 22:07:10.298  SPELL_AURA_APPLIED,Player-4647-0162C1DB,"Einzweild-Grobbulus",0x518,0x0,Player-4647-0162C1DB,"Einzweild-Grobbulus",0x518,0x0,6192,"Battle Shout",0x1,BUFF
+8/2 22:07:11.496  SPELL_AURA_APPLIED,0000000000000000,nil,0x80000000,0x80000000,Player-4647-0124A32D,"Lariatte-Grobbulus",0x514,0x0,24425,"Spirit of Zandalar",0x1,BUFF
+8/2 22:07:11.496  SPELL_AURA_APPLIED,Creature-0-4378-0-78-173754-0000204D79,"Major Mattingly Jr.",0xa28,0x0,Player-4647-0124A32D,"Lariatte-Grobbulus",0x514,0x0,22888,"Rallying Cry of the Dragonslayer",0x1,BUFF
+8/2 22:07:11.496  SPELL_AURA_APPLIED,Player-4647-0126C459,"Daht-Grobbulus",0x514,0x0,Player-4647-0124A32D,"Lariatte-Grobbulus",0x514,0x0,21564,"Prayer of Fortitude",0x2,BUFF
+8/2 22:07:11.496  SPELL_AURA_APPLIED,Player-4647-003FB70E,"Dullhammer-Grobbulus",0x514,0x0,Player-4647-0124A32D,"Lariatte-Grobbulus",0x514,0x0,25894,"Greater Blessing of Wisdom",0x2,BUFF
+8/2 22:07:11.496  SPELL_AURA_APPLIED,Player-4647-004B1C51,"Skadii-Grobbulus",0x514,0x0,Player-4647-0124A32D,"Lariatte-Grobbulus",0x514,0x0,23028,"Arcane Brilliance",0x40,BUFF
+8/2 22:07:11.496  SPELL_AURA_APPLIED,Player-4647-00069D55,"Skadoosh-Grobbulus",0x514,0x0,Player-4647-0124A32D,"Lariatte-Grobbulus",0x514,0x0,9885,"Mark of the Wild",0x8,BUFF
+8/2 22:07:11.496  SPELL_AURA_APPLIED,Player-4647-0027CF1A,"Kaid-Grobbulus",0x514,0x0,Player-4647-0124A32D,"Lariatte-Grobbulus",0x514,0x0,25895,"Greater Blessing of Salvation",0x2,BUFF
+8/2 22:07:11.496  SPELL_AURA_APPLIED,Player-4647-00359560,"Thedilf-Grobbulus",0x514,0x0,Player-4647-0124A32D,"Lariatte-Grobbulus",0x514,0x0,27681,"Prayer of Spirit",0x2,BUFF
+8/2 22:07:14.053  SPELL_AURA_APPLIED,Player-4647-004A4202,"Erengarde-Grobbulus",0x518,0x0,Player-4647-004A4202,"Erengarde-Grobbulus",0x518,0x0,10293,"Devotion Aura",0x2,BUFF
+8/2 22:07:16.365  SPELL_AURA_APPLIED,Player-4647-010426CE,"Karanâ-Grobbulus",0x528,0x0,Player-4647-015AD8CB,"Candiery-Grobbulus",0x518,0x0,1245,"Power Word: Fortitude",0x2,BUFF
+8/2 22:07:16.365  SPELL_AURA_APPLIED,Player-4647-015F329E,"Remmie-Grobbulus",0x528,0x0,Player-4647-015AD8CB,"Candiery-Grobbulus",0x518,0x0,1461,"Arcane Intellect",0x40,BUFF
+8/2 22:07:18.170  SPELL_CAST_START,Player-4647-004A4202,"Erengarde-Grobbulus",0x518,0x0,0000000000000000,nil,0x80000000,0x80000000,23214,"Summon Charger",0x2
+8/2 22:07:18.779  SPELL_AURA_APPLIED,Player-4647-0068D9A5,"Falrune-Grobbulus",0x514,0x0,Player-4647-0068D9A5,"Falrune-Grobbulus",0x514,0x0,14322,"Aspect of the Hawk",0x8,BUFF
+8/2 22:07:18.779  SPELL_AURA_APPLIED,Creature-0-4378-0-78-173754-0000204D79,"Major Mattingly Jr.",0xa28,0x0,Player-4647-0068D9A5,"Falrune-Grobbulus",0x514,0x0,22888,"Rallying Cry of the Dragonslayer",0x1,BUFF
+8/2 22:07:18.779  SPELL_AURA_APPLIED,Player-4647-0068D9A5,"Falrune-Grobbulus",0x514,0x0,Player-4647-0068D9A5,"Falrune-Grobbulus",0x514,0x0,20906,"Trueshot Aura",0x40,BUFF
+8/2 22:07:18.779  SPELL_AURA_APPLIED,Player-4647-014E4A39,"Bashley-Grobbulus",0x514,0x0,Player-4647-0068D9A5,"Falrune-Grobbulus",0x514,0x0,21850,"Gift of the Wild",0x8,BUFF
+8/2 22:07:18.779  SPELL_AURA_APPLIED,Player-4647-0027CF1A,"Kaid-Grobbulus",0x514,0x0,Player-4647-0068D9A5,"Falrune-Grobbulus",0x514,0x0,25895,"Greater Blessing of Salvation",0x2,BUFF
+8/2 22:07:18.779  SPELL_AURA_APPLIED,Player-4647-00C33D36,"Evielynn-Grobbulus",0x512,0x0,Player-4647-0068D9A5,"Falrune-Grobbulus",0x514,0x0,27681,"Prayer of Spirit",0x2,BUFF
+8/2 22:07:18.779  SPELL_AURA_APPLIED,Player-4647-00359560,"Thedilf-Grobbulus",0x514,0x0,Player-4647-0068D9A5,"Falrune-Grobbulus",0x514,0x0,21564,"Prayer of Fortitude",0x2,BUFF
+8/2 22:07:18.779  SPELL_AURA_APPLIED,Player-4647-0068D9A5,"Falrune-Grobbulus",0x514,0x0,Player-4647-0068D9A5,"Falrune-Grobbulus",0x514,0x0,17538,"Elixir of the Mongoose",0x1,BUFF
+8/2 22:07:18.779  SPELL_AURA_APPLIED,Player-4647-0042E8D4,"Ethlumi-Grobbulus",0x514,0x0,Player-4647-0068D9A5,"Falrune-Grobbulus",0x514,0x0,10157,"Arcane Intellect",0x40,BUFF
+8/2 22:07:18.779  SPELL_AURA_APPLIED,Player-4647-003FB70E,"Dullhammer-Grobbulus",0x514,0x0,Player-4647-0068D9A5,"Falrune-Grobbulus",0x514,0x0,25894,"Greater Blessing of Wisdom",0x2,BUFF
+8/2 22:07:21.205  SPELL_AURA_APPLIED,Player-4647-006F939A,"Xaelynn-Grobbulus",0x518,0x0,Player-4647-006F939A,"Xaelynn-Grobbulus",0x518,0x0,19883,"Track Humanoids",0x1,BUFF
+8/2 22:07:21.205  SPELL_AURA_APPLIED,Player-4647-006F939A,"Xaelynn-Grobbulus",0x518,0x0,Player-4647-006F939A,"Xaelynn-Grobbulus",0x518,0x0,14322,"Aspect of the Hawk",0x8,BUFF
